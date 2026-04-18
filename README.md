@@ -21,4 +21,4 @@ Una enciclopedia Pokémon interactiva desarrollada con Flutter para el frontend 
 
 ### 1. Clonar el repositorio
 ```bash
-git clone [https://github.com/MHELLioz/pokedex-flutter-node.git](https://github.com/MHELLioz/pokedex-flutter-node.git)
+git clone https://github.com/MHELLioz/pokedex-flutter-node.git
