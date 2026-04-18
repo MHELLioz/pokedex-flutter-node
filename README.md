@@ -1,16 +1,24 @@
-# flutter_application_proyecto
+# 📱 PokéDex - Flutter & Node.js
 
-A new Flutter project.
+Una enciclopedia Pokémon interactiva desarrollada con Flutter para el frontend y Node.js/MongoDB para el backend. La aplicación consume la [PokeAPI](https://pokeapi.co/) para mostrar información y utiliza un servidor propio para gestionar la autenticación de usuarios y sus Pokémon favoritos.
 
-## Getting Started
+## ✨ Funcionalidades
 
-This project is a starting point for a Flutter application.
+* 🔐 Autenticación de usuarios (Login).
+* 📜 Catálogo de los 151 Pokémon originales (Generación 1).
+* 🔍 Buscador en tiempo real por nombre y número de Pokédex.
+* ❤️ Sistema de favoritos persistente vinculado a la cuenta del usuario.
+* 📱 Interfaz moderna y responsiva.
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tecnologías Utilizadas
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* **Frontend:** Flutter, Dart, Provider (Gestión de estado).
+* **Backend:** Node.js, Express.js.
+* **Base de Datos:** MongoDB.
+* **APIs:** PokeAPI.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Instrucciones de Instalación y Uso
+
+### 1. Clonar el repositorio
+```bash
+git clone [https://github.com/MHELLioz/pokedex-flutter-node.git](https://github.com/MHELLioz/pokedex-flutter-node.git)
